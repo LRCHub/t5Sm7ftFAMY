@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "公私混同",
+  "base_artist": "ゆず",
+  "createdAt": "2026-03-05T04:31:41.894125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "公私混同",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/01_公私混同_ゆず.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "公私混同",
+      "artist": "원위",
+      "has_synced": true,
+      "path": "select/02_公私混同_원위.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "公私混同",
+      "artist": "ONEWE",
+      "has_synced": true,
+      "path": "select/03_公私混同_ONEWE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "公私混同",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_公私混同_ゆず.txt"
+    }
+  ]
+}
